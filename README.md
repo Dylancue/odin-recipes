@@ -1,0 +1,1 @@
+In this project i will build a recipe website, aplying everything I learned about HTML and Git so far.
